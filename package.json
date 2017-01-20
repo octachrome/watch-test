@@ -1,0 +1,18 @@
+{
+  "name": "watch-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "tmp": "0.0.31",
+    "watch": "^1.0.1"
+  }
+}
